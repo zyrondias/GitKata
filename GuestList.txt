@@ -23,7 +23,7 @@ TABLE 2 - Extended Family
 17. Gabrielle Delacour
 18. Vernon Dursley
 19. Petunia Dursley
-20. Dudley Dursley
+20. Dudley Dursley.
 
 TABLE 3 - Mutual Friends
 21. Neville Longbottom
